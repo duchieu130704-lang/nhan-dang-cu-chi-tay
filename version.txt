@@ -1,0 +1,6 @@
+OpenCV (cv2)   : 4.8.1
+MediaPipe      : 0.10.14
+PyAutoGUI      : 0.9.54
+Pillow (PIL)   : 12.2.0
+Pynput         : N/A
+Python         : 3.11.15
